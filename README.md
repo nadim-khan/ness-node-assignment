@@ -4,9 +4,13 @@
 
 ---
 Typescript
+
 Express
+
 Node
+
 Mongoose (for database connectivity)
+
 DB - featuresDB
 
 
