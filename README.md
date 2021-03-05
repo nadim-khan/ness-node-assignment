@@ -3,20 +3,10 @@
 ### Setup and Configurations
 
 ---
-Typescript
 
-Express
+Run npm install to install the dependencied
 
-Node
-
-Mongoose (for database connectivity)
-
-DB - featuresDB
-
-
-### Commands
-
- npm run dev --- To run on development mode 
+npm run dev --- To run on development mode 
 
 npm run start  ----  Build and start the app on port 7000
 
