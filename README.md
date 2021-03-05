@@ -10,9 +10,13 @@ Mongoose (for database connectivity)
 DB - featuresDB
 
 
-### Command
+### Commands
 
-To run on development mode - npm run dev
+ npm run dev --- To run on development mode 
+
+npm run start  ----  Build and start the app on port 7000
+
+npm run build --- Build the app
 
 
 #### Design a REST API
