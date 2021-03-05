@@ -1,0 +1,21 @@
+{
+  "name": "featurestoreserviceassignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon",
+    "build": "rimraf ./dist && npx tsc",
+    "start": "npm run build && node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^14.14.31",
+    "nodemon": "^2.0.7",
+    "rimraf": "^3.0.2",
+    "typescript": "^4.2.2"
+  }
+}
+
